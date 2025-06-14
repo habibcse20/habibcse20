@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @habibcse20
+### 👋 Hi, I’m Habibur Rahman
 
 - 👀 I’m interested in **Machine Learning**, **Computer Vision**, **Cybersecurity**, and **Human-Computer Interaction**
 - 🌱 I’m currently learning **Machine Learning Engineering**, preparing for the **Certified Ethical Hacker (CEH)** exam, and exploring **deep learning applications**
